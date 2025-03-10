@@ -43,7 +43,7 @@ This is a validation and editing tool for AdConfig JSON data, providing an intui
 
 1. **Open the application**
 
-   Access `http://localhost:3000` in your browser or open `jsonvalidator.html`
+   Access `http://localhost:3000` in your browser and open `jsonvalidator.html`
 
 2. **Fetch ad configuration**
 
